@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-**Supinkusu001/Supinkusu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ft_printf
-- 🌱 I’m currently learning c language
-- I’m looking to collaborate on c projects
+- 🔭 I’m currently working on **ft_printf**
+- 🌱 I’m currently learning **c language**
+- I’m looking to collaborate on **c projects**
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
