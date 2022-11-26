@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ft_printf**
+- 🔭 I’m currently working on ** born2beroot **
 - 🌱 I’m currently learning **c language**
 - I’m looking to collaborate on **c projects**
 <!-- - 🤔 I’m looking for help with ... 
