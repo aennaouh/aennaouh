@@ -6,4 +6,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **c language**
 - I’m looking to collaborate on **c projects**
  💬 Get in touch
-![image](https://user-images.githubusercontent.com/116731966/204343268-011dd53e-abc0-4fbc-9cbc-f25ebd3ce6c9.png)
+
+![dino](https://user-images.githubusercontent.com/116731966/204343377-16e078f1-e8e4-4986-b2dc-d2d4149f4965.gif)
