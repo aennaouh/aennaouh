@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ** Minitalk **
+- 🔭 I’m currently working on ** so_long **
 - 🌱 I’m currently learning **c language**
 - I’m looking to collaborate on **c projects**
  💬 Get in touch
