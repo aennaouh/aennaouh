@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ** push_swap **
+- 🔭 I’m currently working on ** philosopher **
 - 🌱 I’m currently learning ....
 - I’m looking to collaborate 💬 Get in touch
 
