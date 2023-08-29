@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ** Net_Practice **
+- 🔭 I’m currently working on ** cub3d **
 - 🌱 I’m currently learning ....
 - I’m looking to collaborate 💬 Get in touch
 
